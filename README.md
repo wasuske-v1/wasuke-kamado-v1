@@ -1,12 +1,14 @@
+
 # KAMADO 🐉 INFO 
+
 # BUG BOT DÉVELOPPÉ PART WASUKE D KAMADO VII DIRECTER BY ADORIERU D STARK VII X EOZA KAMADO
 <h1 align="center">ꪶwasuke V8ꫂ<br></h1>
 
-<a href="https://ibb.co/7k1KVjd"><img src="https://i.ibb.co/RjDcPYk/Zenitsu.jpg" alt="Zenitsu" border="0"></a>
+<a href="https://ibb.co/7k1KVjd"><img src="https://i.ibb.co/RjDcPYk/Zenitsu.jpg" alt="wasuke" border="0"></a>
 
 <p align="center">
 
-wasuke Multi Device is a automated whatsapp bot developed by <a href="https://youtube.com/@dreamguydeepak" target="_blank">Deepak</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+wasuke Multi Device is a automated whatsapp bot developed by wasuke kamado href="" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 
 </p>
 
@@ -15,11 +17,11 @@ wasuke Multi Device is a automated whatsapp bot developed by <a href="https://yo
 
 <p align="center">
 
-<a href="https://wa.me/24177059320"><img src="https://img.shields.io/badge/Contact Deepak-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/24177059320"><img src="https://img.shields.io/badge/Contact wasuke-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <a href="https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="https://youtube.com/@dreamguydeepak"><img src="https://img.shields.io/badge/Subscribe Deepak-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@dreamguydeepak" /><br>
+<a href="https://youtube.com/@dreamguydeepak"><img src="https://img.shields.io/badge/Subscribe wasuke-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@dreamguydeepak" /><br>
 
 </p>
 
@@ -47,7 +49,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGDEEPAK/Zenitsu-Bot8/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGDEEPAK/wasuke v1/)
 
 # Install Manually 👇
 
@@ -77,7 +79,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install yarn
 pkg install imagemagick -y
-git clone https://github.com/DGDEEPAK/Zenitsu-Bot8
+git clone https://github.com/wasuske-v1/wasuke-kamado-v1/
 cd wasuke v1
 yarn install
 rm -rf session
@@ -89,12 +91,10 @@ node .
 - [`DGXeon`](https://github.com/DGXeon)
 
 - [`DGDEEPAK`](https://github.com/DGDEEPAK)
-- (`https://github.com/wasuske-v1/Zenitsu-Bot8/edit/Deepak/README.md`)
+- (`https://github.com/wasuske-v1/Zenitsu-Bot8/edit/wasuke/README.md`)
 - 
 
 <p align="center"><h1>wasuke-v1 </h1><br> </p>
 
 ![banner](wasuke.jpg)
 
-<a href='https://raizenbot-webpair.onrender.com' target="_blank"><img alt='GET SESSION' src='https://img.shields.io/badge/Click here to get your Session code-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
